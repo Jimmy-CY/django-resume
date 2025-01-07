@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure--$+_8x@8j)9jd)!-&3bnzhmx8j-q*gew%3dz%-%o=t8+-uzx@2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['alivente.online', 'https://alivente.online', 'django-resume-production-e3a2.up.railway.app', 'https://django-resume-production-e3a2.up.railway.app', 'localhost:8000']
+ALLOWED_HOSTS = ['alivente.online', 'https://alivente.online', 'django-resume-production-e3a2.up.railway.app', 'https://django-resume-production-e3a2.up.railway.app', 'localhost:8000', 'localhost']
 
 
 # Application definition
